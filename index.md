@@ -1,6 +1,6 @@
 ## Reading Seminars
 
-- Algebraic Geometry, 2021-2022 Winter. See [here](https://xuruichen98.github.io/agseminar21w/52seminar2021w.html).
+- Algebraic Geometry, 2021-2022 Winter. See [here](https://xuruichen98.github.io/seminar/agseminar21w/52seminar2021w.html).
 - ......
 
 
