@@ -12,7 +12,7 @@
 
 - Talk 01: Prerequisites on category theory. Motivations.
   - Source: [Har] Sect. 2.1, 2.5.
-  - [Notes](notes), [Slides]().
+  - [Notes](https://xuruichen98.github.io/seminar/homework for valuation rings.pdf), [Slides]().
 - Talk 02: Sheaves
 
 
