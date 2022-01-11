@@ -17,18 +17,11 @@
 
 #### Syllabus
 
-- Talk 01: Prerequisites on category theory. Motivations.
+- **Talk 01**: Prerequisites on category theory. Motivations.
   - Source: [Li1] 第二章-第三章，[Li2] 第一章. [Har] Chapter I.
-  - [Notes](https://xuruichen98.github.io/seminar/agseminar21w/testfile.pdf), [Slides](slides).
-- Talk 02: Sheaves
-  - Source:
-
-- Talk 03: Schemes
-- Talk 04: Basic Properties of Schemes
-- Talk 05: Fiber Products, Sepreatedness and Properness
-- Talk 06: Projective Space
-- Talk 07: Divisors
-- Talk 08: Cohomology
+  - [Exercise On Category Theory](https://xuruichen98.github.io/seminar/agseminar21w/catexam.pdf), [“Solution”](https://xuruichen98.github.io/seminar/agseminar21w/catsol.pdf).
+- ........
+  
 - ........
 
 
