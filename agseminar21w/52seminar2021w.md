@@ -18,10 +18,11 @@
 #### Syllabus
 
 - **Talk 01**: Prerequisites on category theory. Motivations.
-  - Source: [Li1] 第二章-第三章，[Li2] 第一章. [Har] Chapter I.
-  - [Exercise On Category Theory](https://xuruichen98.github.io/seminar/agseminar21w/catexam.pdf), [“Solution”](https://xuruichen98.github.io/seminar/agseminar21w/catsol.pdf).
-- ........
-  
+  - Reference: [Li1] 第二章-第三章，[Li2] 第一章-第二章. [Har] Chapter I.
+  - [Exercise In Category Theory](https://xuruichen98.github.io/seminar/agseminar21w/catexam.pdf), [“Solution”](https://xuruichen98.github.io/seminar/agseminar21w/catsol.pdf).
+  - [Notes](https://xuruichen98.github.io/seminar/agseminar21w/note01.pdf). [Slides](https://xuruichen98.github.io/seminar/agseminar21w/talk01.pdf).
+- **Talk 02**: Sheaves and sheaves of modules.
+  - Reference: ......
 - ........
 
 
